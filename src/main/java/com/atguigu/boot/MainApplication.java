@@ -32,6 +32,6 @@ public class MainApplication {
         User user2 = bean.user();
         System.out.println(user1==user2);
         System.out.println(user==user1);
-
+        //daa
     }
 }
